@@ -1,7 +1,6 @@
 aid: avivabiosciences
 name: Avivabiosciences
-description: 'Avivabiosciences is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Avivabiosciences is a biotechnology company focused on developing innovative therapies leveraging advanced bioengineering and synthetic biology platforms. The firm aims to address unmet medical needs by creating novel biologics and cell-based treatments, collaborating with research institutions and industry partners to accelerate drug discovery and development.'
 url: https://raw.githubusercontent.com/api-evangelist/avivabiosciences/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -12,6 +11,10 @@ created: '2026-09-27'
 modified: '2026-09-27'
 tags:
 - Company
+- Biotechnology
+- Therapeutics
+- Synthetic Biology
+- Drug Discovery
 apis: []
 maintainers:
 - FN: Kin Lane
